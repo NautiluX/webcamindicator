@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Exec=webcamindicator DEVICE
+NoDisplay=false
+Name=Webcam Indicator
+Comment=Webcam Indicator
+Icon=/usr/share/icons/cam-white.png
